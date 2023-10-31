@@ -22,6 +22,7 @@ The dataset used in this app is based on real-world car accidents data.
 2. Install the required R packages mentioned in the `global.R` file using `install.packages()`.
 
 3. Run the Shiny app by executing the following code in R:
+- Replace "path_to_the_app_directory" with actual path to the app directory on local machine
 
 ```R
 library(shiny)
